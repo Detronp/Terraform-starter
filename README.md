@@ -1,2 +1,2 @@
 # Terraform-starter
-A starter repo and practice module that provisions an S3 bucket for AWS.
+Practice provisional, infrastructure built through code. Finished product an S3 bucket in AWS.
