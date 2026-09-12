@@ -1,2 +1,4 @@
 # Terraform-starter
-Practice provisional, infrastructure built through code. Finished product an S3 bucket in AWS.
+
+Practice makes perfect in Devops, infrastructure built through code. Finished product an S3 bucket in AWS.
+
