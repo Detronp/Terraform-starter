@@ -1,2 +1,4 @@
 # Terraform-starter
-Practice provisional, infrastructure built through code. Finished product an S3 bucket in AWS.
+
+For learning and practice purpose, we build in terraform. Finished product an S3 bucket in AWS.
+
